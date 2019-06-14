@@ -12,5 +12,6 @@ To deploy this you need to use docker
 new code to push
 
 ### Docker intro
+use docker run
 
 Sample website with plenty of files for demos
