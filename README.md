@@ -13,5 +13,7 @@ new code to push
 
 ### Docker intro
 use docker run
+use docker exec
+user docker plus
 
 Sample website with plenty of files for demosnew line added
