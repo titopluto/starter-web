@@ -1,6 +1,7 @@
 # Starter Web Repo
 add in a line for rebase
 from myfeature branch
+emergence fix after stash
 
 This repository is for showing how Git and GitHub work
 
