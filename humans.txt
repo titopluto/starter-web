@@ -4,6 +4,7 @@
 # TEAM
 tito
 copie
+pluto
     <name> -- <role> -- <twitter>
 
 # THANKS
